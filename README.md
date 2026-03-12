@@ -172,22 +172,22 @@ Wi-Fi Adapter:
 ##  Screenshots
 
 ### Payload Created
-![Payload Created](/screenshots/payload_created.png)
+![Payload Created](/Screenshots/payload_created.png)
 
 ### Meterpreter Session Opened
-![Session Opened](/screenshots/msf1.png)
+![Session Opened](/Screenshots/msf1.png)
 
 ### Shell Access — whoami
-![whoami](/screenshots/msf2.png)
+![whoami](/Screenshots/msf2.png)
 
 ### Network Configuration — ipconfig
-![ipconfig](/screenshots/msf3.png)
+![ipconfig](/Screenshots/msf3.png)
 
 ### Systeminfo Output
-![systeminfo](/screenshots/msf6.png)
+![systeminfo](/Screenshots/msf6.png)
 
 ### File System Browsing
-![File System](/screenshots/msf10.png)
+![File System](/Screenshots/msf10.png)
 
 ---
 
@@ -223,7 +223,7 @@ Wi-Fi Adapter:
 
 ##  Full Report
 
- [`reports/Cleveland_Henry_Lore_Intermediate_Task_Report.docx`](reports/Cleveland_Henry_Lore_Intermediate_Task_Report.docx)
+ [`reports/Cleveland_Henry_Lore_Intermediate_Task_Report.docx`](Report/Cleveland_Henry_Lore_Intermediate_Task_Report.docx)
 
 ---
 
