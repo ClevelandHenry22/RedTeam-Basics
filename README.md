@@ -81,7 +81,7 @@ RedTeam-Basics/
 
 ---
 
-## ⚙️ Tools Used
+##  Tools Used
 
 | Tool | Purpose | Version |
 |------|---------|---------|
