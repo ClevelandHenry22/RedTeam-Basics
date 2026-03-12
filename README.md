@@ -85,8 +85,8 @@ RedTeam-Basics/
 
 | Tool | Purpose | Version |
 |------|---------|---------|
-| [VirtualBox](https://www.virtualbox.org/) | Virtualization platform | Latest |
-| [Kali Linux](https://www.kali.org/) | Attacker OS with Metasploit | Rolling |
+| VirtualBox | Virtualization platform | Latest |
+| Kali Linux | Attacker OS with Metasploit | Rolling |
 | Metasploit Framework | Exploit framework + listener | v6.4.50-dev |
 | msfvenom | Payload generator | Built into Metasploit |
 | Python 3 | File delivery HTTP server | 3.x |
@@ -132,7 +132,7 @@ meterpreter >
 
 ---
 
-## 🖥️ Post-Exploitation Evidence
+##  Post-Exploitation Evidence
 
 ### System Identity
 ```
@@ -169,7 +169,7 @@ Wi-Fi Adapter:
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
 ### Payload Created
 ![Payload Created](screenshots/payload_created.png)
@@ -191,7 +191,7 @@ Wi-Fi Adapter:
 
 ---
 
-## 🧠 Lessons Learned
+##  Lessons Learned
 
 ### Attacker's Perspective
 - A functional reverse shell can be created and deployed in minutes using Metasploit
